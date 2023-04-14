@@ -7,7 +7,12 @@ const Filtr = ({value, onChange}) => {
     return ( 
         <label className={style.label}>
         Find contacts by name
-            <input className={style.input} type="text" value={value} onChange={onChange} />
+        <input
+          className={style.input}
+          type="text"
+          value={value}
+          onChange={onChange}
+        />
         </label>
      );
 }
