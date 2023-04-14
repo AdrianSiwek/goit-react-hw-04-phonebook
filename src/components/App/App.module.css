@@ -1,0 +1,9 @@
+.form {
+    width: 650px;
+    margin: 100px auto;
+    padding: 20px 40px;
+    border: 2px solid rgb(229, 94, 105);
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px rgb(20, 13, 49);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
